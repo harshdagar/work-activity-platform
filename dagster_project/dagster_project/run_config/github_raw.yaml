@@ -1,0 +1,8 @@
+ops:
+  github_pull_requests_raw:
+    config:
+      lookback_days: 90
+      pr_limit: 200
+  github_pull_request_reviews_raw:
+    config:
+      pr_limit: 200
